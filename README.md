@@ -20,3 +20,10 @@ Compared to its competitors, DeepMind is a leader in AI research and development
 
 ## Recommendations
 To further enhance its impact, DeepMind could expand its AI-driven healthcare solutions to include diagnostic tools and personalized treatment plans, and develop AI tools for environmental monitoring and climate change mitigation. These expansions would leverage their AI expertise for social good and addressing global challenges. Technologies such as natural language processing for patient data analysis, and reinforcement learning for optimizing treatment protocols would be key. These technologies are suitable due to their proven effectiveness in understanding complex datasets in dynamic environments, making them ideal for healthcare and environmental applications.
+
+## Citations
+- Catherine Shu, "*Google Acquires Artificial Intelligence Startup DeepMind for More than $500M*" TechCrunch, 27 Jan. 2014, [https://techcrunch.com/2014/01/26/google-deepmind/](https://techcrunch.com/2014/01/26/google-deepmind/)
+- Hannah Fry, "*The road to AGI - DeepMind: The Podcast (S2, Ep5)*" Google DeepMind, Feb 15, 2022, [https://deepmind.google/discover/the-podcast/the-road-to-agi/](https://deepmind.google/discover/the-podcast/the-road-to-agi/)
+- Healthcare IT, "*AI in Healthcare Market*" Aug. 2021, [https://www.alliedmarketresearch.com/artificial-intelligence-in-healthcare-market](https://www.alliedmarketresearch.com/artificial-intelligence-in-healthcare-market)
+- Richard Evans, Jim Gao, "*DeepMind AI Reduces Google Data Centre Cooling Bill by 40%*" Google Deepmind, 20 Jul. 2016, [https://deepmind.google/discover/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-by-40/](https://deepmind.google/discover/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-by-40/)
+- Rob Towes, "*AlphaFold Is The Most Important Achievement In AI—Ever*" Forbes, 3 Oct. 2021, [https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/](https://www.forbes.com/sites/robtoews/2021/10/03/alphafold-is-the-most-important-achievement-in-ai-ever/)
